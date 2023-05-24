@@ -12,6 +12,6 @@ public class Main {
         }
         startamount += debitamount + points; // прибавляем к начальной сумме сумму пополнения и бонус
         System.out.println("итоговая сумма на счету: " + startamount); // выводим итоговую сумму
-        System.out.println("количество бонусных рублей: " + points); // выводим количество бонусных рублей
+        System.out.println("количество бонусных рублей.: " + points); // выводим количество бонусных рублей
     }
 }
